@@ -1,0 +1,1 @@
+If we have suspicious activity on an endpoint, we go to that specific dashboard in Splunk Enterprise Security and can see all of the movements. I just enter the hostname for a single machine, and I can see all of the endpoint response logs. Splunk Enterprise Security lets you see everything going on in your environment to find the bad guys. 

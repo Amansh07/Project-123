@@ -1,0 +1,4 @@
+
+USE CASE
+Advanced threat detection
+Prevent security incidents before they cause irrevocable damage through early and rapid behavior-based detection

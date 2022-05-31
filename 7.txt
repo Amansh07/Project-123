@@ -1,0 +1,1 @@
+We were able to do extraordinary things in a very short period of time to detect advanced threats. Ultimately, that was the decision point for us to make a much larger investment in Splunk Enterprise Security and UBA across our different security use cases. 
